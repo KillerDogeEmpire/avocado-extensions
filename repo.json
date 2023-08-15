@@ -1,0 +1,8 @@
+{
+  "name": "Avocado's Extensions",
+  "description": "This Repo Contains Audio Books And More",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/KillerDogeEmpire/avocado-extensions/builds/plugins.json"
+  ]
+}
